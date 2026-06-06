@@ -1,4 +1,4 @@
-# 🏧 ATM Management System
+#  ATM Management System
 
 ## 📖 Project Overview
 - A console-based ATM Management System developed using Java.
@@ -8,7 +8,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 - User Login Authentication (Account Number & PIN)
 - Check Account Balance
 - Deposit Money

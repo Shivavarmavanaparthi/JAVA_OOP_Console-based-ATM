@@ -1,6 +1,6 @@
 #  ATM Management System
 
-## 📖 Project Overview
+##  Project Overview
 - A console-based ATM Management System developed using Java.
 - Implements core Object-Oriented Programming (OOP) concepts.
 - Simulates real-world ATM operations through a command-line interface.
